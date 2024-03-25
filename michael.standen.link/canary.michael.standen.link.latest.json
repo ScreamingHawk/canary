@@ -1,0 +1,46 @@
+{
+    "version": "0.1",
+    "canary": {
+        "domain": "michael.standen.link",
+        "min_signers": 1,
+        "pubkeys": [
+            {
+                "role": "author",
+                "name": "author",
+                "key": "kaSiRQougnKgzEd+T/zQnbbifzKz81HDia8qmVAV8hM=",
+                "required": true
+            }
+        ],
+        "panickey": "UweEQhyQJqfPcXpIWo6uruYIoTRiKXIgwp9bpK2+i+4=",
+        "release": "2024-03-26T10:37:35+13:00",
+        "expiry": "2024-04-25T09:37:35+12:00",
+        "freshness": "00000000000000000001aeac92f18e973ca85ab113f1a6921e53722580749f47",
+        "codes": [
+            "trap",
+            "raid",
+            "xcred",
+            "xopers",
+            "gag",
+            "subp",
+            "cease",
+            "duress",
+            "seize",
+            "war"
+        ],
+        "mirrors": null
+    },
+    "signatures": {
+        "kaSiRQougnKgzEd+T/zQnbbifzKz81HDia8qmVAV8hM=": {
+            "domain": "YbTgU2wopbkvFMi0k3eQvuYfcoNS4IROuCwX/NmKpjn3FduyBmLCN6bFdyrlOM6yGU/kRYRhOXKWuKr2zIMdAQ==",
+            "min_signers": "tZOGqDrAGmB+RB+yF1ZLPp3G2pnqVjBROJ96n/NNB4RmduoBIjubHRHcfu0DQdoyWUJSIf3VLHfMFMlvcVMlDQ==",
+            "pubkeys": "x9wlinhr16ls8KYW5YduGB/9e1dNi59Tictx6v/bDbSRRei99BI0CIsEBqJoPIMnI5T3/4lx/OFT0sF0XHZqBw==",
+            "panickey": "l9m+ZCdWzR7Trcblm3H/qUlbJcsvzrzJBUSiMcVjUwMU0XU0UUds28HFVW4HRhNMRCcg9Xt57e7fb/N7yOh0DA==",
+            "version": "nxNYjRMljYqkbypq1SSp66UqymU8vxDWu+pXNXPeZgPQoUcTFK3vW3+r5fQl5y6WpqsUJN9V03yMuCvPl8KMCg==",
+            "release": "vWt+8wWEZRj0HzQOOmMt+1InUJeBnxFEIhd7UOT0ONwXpexLKJZ0lZ5L+DjFXOXaC/icq/ixu53C78YHPSF9Cg==",
+            "expiry": "fsRvNjqoy708AkCvz6asHgEcPvMCEKpTUiCKaXRzx9gAIqTu92mkU28rRK65MEZE8hq6fIV4I6KSlivDCSgCAA==",
+            "freshness": "IQVR+h2eoaXIpo6Al4MhUDH8FiGbc/oL0d413H8yikigJE4bKktLo5wSV43HgjDawDL+CslegN1Tt5fkO+T0CQ==",
+            "codes": "xfqv5QK6VOnvwveb0CJEGxbfsGUutB6anWEtKLySvfW2qOVQVW/kp9I53lInNhNHsB2cocYMicr5fXCz0Z5WAw==",
+            "mirrors": "QBHGd4igqoIEP7G5z28jHf/DOI+FkXACDmZHe5kWZIsbjwWjJe0NSVxtFXfb8wrf/F8vVWC+MjfjItW2dCBGAA=="
+        }
+    }
+}
